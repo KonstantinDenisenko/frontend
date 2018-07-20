@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+}
+.main {
+	padding: 30px;
+}
+.line {
+	width: 500px;
+	height: 10px;
+	1border: solid 1px grey;
+	background-color: limegreen;
+	border-radius: 2px;
+	position: relative;
+}
+.slider {
+	width: 20px;
+	height: 20px;
+	1border: solid 1px grey;
+	border-radius: 4px;
+	background-color: grey;
+	position: absolute;
+	top: -6px;
+	left: 0px;
+}
+.active {
+	background-color: blue;
+}

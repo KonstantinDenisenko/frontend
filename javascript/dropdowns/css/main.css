@@ -1,0 +1,86 @@
+.box {
+	display: inline-block;
+	width: 300px;
+	margin: 0 auto;
+	vertical-align: top;
+	
+}
+.group {
+	background-color: grey;
+	margin-bottom: 10px;
+	border: solid 2px grey;
+	border-radius: 5px;
+}
+.text {
+	margin: 0;
+}
+a {
+	display: block;
+	padding: 8px;
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	text-decoration: underline;
+}
+.sabmenu {
+	display: none;
+	background-color: white;
+}
+.active .sabmenu {
+	display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
